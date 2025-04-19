@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/meteo/static/css/main.d97ee9d7.chunk.css",
+    "main.js": "/meteo/static/js/main.0862af0d.chunk.js",
+    "main.js.map": "/meteo/static/js/main.0862af0d.chunk.js.map",
+    "runtime~main.js": "/meteo/static/js/runtime~main.bcdde578.js",
+    "runtime~main.js.map": "/meteo/static/js/runtime~main.bcdde578.js.map",
+    "static/js/2.1660a418.chunk.js": "/meteo/static/js/2.1660a418.chunk.js",
+    "static/js/2.1660a418.chunk.js.map": "/meteo/static/js/2.1660a418.chunk.js.map",
+    "static/js/3.3b6fb9ae.chunk.js": "/meteo/static/js/3.3b6fb9ae.chunk.js",
+    "static/js/3.3b6fb9ae.chunk.js.map": "/meteo/static/js/3.3b6fb9ae.chunk.js.map",
+    "index.html": "/meteo/index.html",
+    "precache-manifest.79cafc5d601c0835e2efbf5e7d225bc6.js": "/meteo/precache-manifest.79cafc5d601c0835e2efbf5e7d225bc6.js",
+    "service-worker.js": "/meteo/service-worker.js",
+    "static/css/main.d97ee9d7.chunk.css.map": "/meteo/static/css/main.d97ee9d7.chunk.css.map",
+    "static/media/index.css": "/meteo/static/media/paysage.4c758d05.jpg"
+  }
+}
