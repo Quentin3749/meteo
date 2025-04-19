@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/meteo/static/css/main.d97ee9d7.chunk.css",
-    "main.js": "/meteo/static/js/main.0862af0d.chunk.js",
-    "main.js.map": "/meteo/static/js/main.0862af0d.chunk.js.map",
-    "runtime~main.js": "/meteo/static/js/runtime~main.bcdde578.js",
-    "runtime~main.js.map": "/meteo/static/js/runtime~main.bcdde578.js.map",
-    "static/js/2.1660a418.chunk.js": "/meteo/static/js/2.1660a418.chunk.js",
-    "static/js/2.1660a418.chunk.js.map": "/meteo/static/js/2.1660a418.chunk.js.map",
-    "static/js/3.3b6fb9ae.chunk.js": "/meteo/static/js/3.3b6fb9ae.chunk.js",
-    "static/js/3.3b6fb9ae.chunk.js.map": "/meteo/static/js/3.3b6fb9ae.chunk.js.map",
+    "main.css": "/meteo/static/css/main.55288836.chunk.css",
+    "main.js": "/meteo/static/js/main.001c0ec6.chunk.js",
+    "main.js.map": "/meteo/static/js/main.001c0ec6.chunk.js.map",
+    "runtime-main.js": "/meteo/static/js/runtime-main.18c7a5f9.js",
+    "runtime-main.js.map": "/meteo/static/js/runtime-main.18c7a5f9.js.map",
+    "static/js/2.59f90b44.chunk.js": "/meteo/static/js/2.59f90b44.chunk.js",
+    "static/js/2.59f90b44.chunk.js.map": "/meteo/static/js/2.59f90b44.chunk.js.map",
+    "static/js/3.858efb9e.chunk.js": "/meteo/static/js/3.858efb9e.chunk.js",
+    "static/js/3.858efb9e.chunk.js.map": "/meteo/static/js/3.858efb9e.chunk.js.map",
     "index.html": "/meteo/index.html",
-    "precache-manifest.79cafc5d601c0835e2efbf5e7d225bc6.js": "/meteo/precache-manifest.79cafc5d601c0835e2efbf5e7d225bc6.js",
+    "precache-manifest.d2a9b70a5ec226ab2dc29e32792c80d1.js": "/meteo/precache-manifest.d2a9b70a5ec226ab2dc29e32792c80d1.js",
     "service-worker.js": "/meteo/service-worker.js",
-    "static/css/main.d97ee9d7.chunk.css.map": "/meteo/static/css/main.d97ee9d7.chunk.css.map",
+    "static/css/main.55288836.chunk.css.map": "/meteo/static/css/main.55288836.chunk.css.map",
+    "static/js/2.59f90b44.chunk.js.LICENSE.txt": "/meteo/static/js/2.59f90b44.chunk.js.LICENSE.txt",
     "static/media/index.css": "/meteo/static/media/paysage.4c758d05.jpg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18c7a5f9.js",
+    "static/js/2.59f90b44.chunk.js",
+    "static/css/main.55288836.chunk.css",
+    "static/js/main.001c0ec6.chunk.js"
+  ]
 }
